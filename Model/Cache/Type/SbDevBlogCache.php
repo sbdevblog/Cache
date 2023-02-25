@@ -1,4 +1,7 @@
 <?php
+/**
+ * @copyright Copyright (c) sbdevblog (https://www.sbdevblog.com)
+ */
 
 namespace SbDevBlog\Cache\Model\Cache\Type;
 

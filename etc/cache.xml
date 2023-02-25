@@ -1,4 +1,9 @@
 <?xml version="1.0"?>
+<!--
+/**
+ * @copyright Copyright (c) sbdevblog (https://www.sbdevblog.com)
+ */
+-->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Cache/etc/cache.xsd">
     <type name="sbdevblog_cache" translate="label,description" instance="SbDevBlog\Cache\Model\Cache\Type\SbDevBlogCache">
         <label>SbDevBlog Cache</label>
