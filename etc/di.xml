@@ -11,6 +11,8 @@
             <argument name="commands" xsi:type="array">
                 <item name="saveDataToCache" xsi:type="object">SbDevBlog\Cache\Console\SaveDataToCache</item>
                 <item name="getDataFromCache" xsi:type="object">SbDevBlog\Cache\Console\GetDataFromCache</item>
+                <item name="invalidateCache" xsi:type="object">SbDevBlog\Cache\Console\InvalidateCache</item>
+                <item name="flushCache" xsi:type="object">SbDevBlog\Cache\Console\FlushCache</item>
             </argument>
         </arguments>
     </type>
